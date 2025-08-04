@@ -1,6 +1,7 @@
 <div id="header" align="center">
+  
+![](https://komarev.com/ghpvc/?username=readyplayer2&color=2D8D04&label=player2.exe)
 
-ac⠀:⠀@thisoneeisliu on tt
 
 <div id="header" align="center">
 
