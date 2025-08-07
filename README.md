@@ -10,4 +10,4 @@
 <div id="header" align="center">
 
   
-##### [guns.lol](https://guns.lol/devilmario)
+##### [main acc](https://github.com/superbadmario)
