@@ -9,4 +9,4 @@
 
 <div id="header" align="center">
 
-##### [ata](https://devilmario.atabook.org/)
+##### [ata](https://devilmario.atabook.org/) ‎ ‎  ‎ **|** ‎ ‎  ‎ [rentry](https://rentry.co/promomario)   
